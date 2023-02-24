@@ -12,17 +12,17 @@ The project consists of four main parts
 4、Visualization:/Plot
 
 ## Prerequisites
-scikit-learn 0.19.1 
+Scikit-learn 0.19.1 
 
-numpy 1.15.4 
+Numpy 1.15.4 
 
-scipy 1.2.0 
+Scipy 1.2.0 
 
-torch 0.4.1 
+Torch 0.4.1 
 
 Python 3.5
 
-matlab
+Matlab
 
 Compatible with both cuda and cpu devices, depending on the user choice through arg_parser file. Also compatible with python2 and python3.
 ##  Implementation
