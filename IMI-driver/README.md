@@ -28,7 +28,7 @@ Compatible with both cuda and cpu devices, depending on the user choice through 
 ##  Implementation
 step1:Download data. 
 
-Here we will use the breast cancer (BRCA) data as an example, the data are available for download at XXX.Then put the `data` in `. /Network` and `ceRNA` in `. /Network/ceRNA`
+Here we will use the breast cancer (BRCA) data as an example, the data are available for download at [here](https://doi.org/10.5281/zenodo.7674019).Then put the `data` in `. /Network` and `ceRNA` in `. /Network/ceRNA`
 
 step2:Network construction.
 
