@@ -7,7 +7,7 @@ The project consists of four main parts
 
 2、Constructing network:/Network
 
-3、Network embedding/Cancer_MANE
+3、Network embedding:/Cancer_MANE
 
 4、Visualization:/Plot
 
