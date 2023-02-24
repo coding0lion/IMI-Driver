@@ -26,7 +26,9 @@ Matlab
 
 Compatible with both cuda and cpu devices, depending on the user choice through arg_parser file. Also compatible with python2 and python3.
 ##  Implementation
-step1:Download data. Here we will use the breast cancer (BRCA) data as an example, the data are available for download at XXX.Then put the `data` in `. /Network` and `ceRNA` in `. /Network/ceRNA`
+step1:Download data. 
+
+Here we will use the breast cancer (BRCA) data as an example, the data are available for download at XXX.Then put the `data` in `. /Network` and `ceRNA` in `. /Network/ceRNA`
 
 step2:Network construction.
 
